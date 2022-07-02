@@ -1,0 +1,20 @@
+{
+  "name": "dio-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
